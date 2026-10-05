@@ -28,4 +28,4 @@ Visit the [ICOS station network](https://www.icos-cp.eu/measurements/station-net
 
 ![ICOS guide banner for PEAT-GENIE partners](assets/ICOS-station-network.png)
 
-Fig. The map of ICOS stations in the EU. 
+Fig. The map of ICOS stations in the EU >>> 180 measurement stations across 16 European countries. 
