@@ -2,7 +2,7 @@
 
 ![ICOS guide banner for PEAT-GENIE partners](assets/ICOS-guide-banner.png)
 
-This short guide introduces the **Integrated Carbon Observation System (ICOS)** and helps PEAT-GENIE partners find and understand ICOS data. It focuses on ecosystem observations and peatland-related stations. Read it directly on GitHub: the notebooks contain text and tables only. You don't need to install software, create an account, or download data to read them.
+This short guide introduces the **Integrated Carbon Observation System (ICOS)** and helps PEAT-GENIE partners find and understand ICOS data. It focuses on ecosystem observations and peatland-related stations. 
 
 | Start here | What you will learn |
 | --- | --- |
